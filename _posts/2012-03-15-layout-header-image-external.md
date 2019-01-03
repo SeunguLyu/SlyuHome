@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Layout: Header Image (External URL)"
-image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
+image: https://hdwallpaper20.com/wp-content/uploads/2016/04/Basketball-wallpaper-HD-Collection-hd-colourful.jpg
 categories:
   - Layout
   - Uncategorized
